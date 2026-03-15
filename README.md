@@ -18,7 +18,7 @@ Repository Link: Repository is private since app is active.
 ### DewDrop (Pinnit v2)
 > 🔴 **Inactive**
 
-Description: A social media app where people post on an interactive global map!
+Description: The second version of Pinnit, rebranded to Jumbl and rewritten in Flutter.
 
 Preview Demo:
 
