@@ -4,7 +4,7 @@
 
 ### Active
 
-###  Jumbl
+#### Jumbl
 
 Description: A fun new social media app where you share themed photos with friends!
 
@@ -17,7 +17,7 @@ Website: https://jumbl.social/
 
 ### Inactive
 
-###  DewDrop
+####  DewDrop
 
 Description: A social media app where people post on an interactive global map!
 
