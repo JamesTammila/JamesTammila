@@ -1,10 +1,10 @@
 ###  Hello 👋, I'm James Tammila, I enjoy making apps!</h1>
 
-###  
+<br>
 
 ###  📱 Apps
 
-###  
+<br>
 
 ### Active
 
