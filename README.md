@@ -7,11 +7,11 @@
 
 Description: A fun new social media app where you share themed photos with friends! Released at the beginning of this year. 
 
-iOS Download: https://apps.apple.com/us/app/jumbl-post-together/id6448725808
+iOS Download Link: https://apps.apple.com/us/app/jumbl-post-together/id6448725808
 
-Android Download: https://play.google.com/store/apps/details?id=social.jumbl.jumbl
+Android Download Link: https://play.google.com/store/apps/details?id=social.jumbl.jumbl
 
-Website: https://jumbl.social/
+Website Link: https://jumbl.social/
 
 Repository Link: Repository is private since app is active.
 
