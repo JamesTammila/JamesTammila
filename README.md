@@ -1,14 +1,14 @@
 ###  Hello 👋, I'm James Tammila, I enjoy making apps!</h1>
 
-
+###  
 
 ###  📱 Apps
 
-
+###  
 
 ### Active
 
-
+###  
 
 ### Jumbl
 
@@ -22,10 +22,11 @@ Website: https://jumbl.social/
 
 Repository Link: Private
 
+###  
 
 ### Inactive
 
-
+###  
 
 ###  DewDrop (Pinnit v2)
 
@@ -35,7 +36,7 @@ Description: A social media app where people post on an interactive global map!
 
 Repository Link: https://github.com/JamesTammila/dewdrop
 
-
+###  
 
 ###  Pinnit
 
