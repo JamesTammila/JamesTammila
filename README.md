@@ -8,9 +8,7 @@
 
 ###  
 
-### Jumbl 
-
-
+### Jumbl<br>
 
 Description: A fun new social media app where you share themed photos with friends! Released at the beginning of this year. 
 
