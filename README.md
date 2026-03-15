@@ -14,6 +14,7 @@ Android Download: https://play.google.com/store/apps/details?id=social.jumbl.jum
 
 Website: https://jumbl.social/
 
+Repository Link: Private
 
 ### Inactive
 
