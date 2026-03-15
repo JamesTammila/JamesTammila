@@ -2,11 +2,7 @@
 
 ### 📱 Apps
 
-<br>
-
 ### Active
-
-###  
 
 ### Jumbl
 
@@ -20,13 +16,9 @@ Website: https://jumbl.social/
 
 Repository Link: Private
 
-###  
-
 ### Inactive
 
-###  
-
-###  DewDrop (Pinnit v2)
+### DewDrop (Pinnit v2)
 
 Description: A social media app where people post on an interactive global map!
 
@@ -34,9 +26,7 @@ Description: A social media app where people post on an interactive global map!
 
 Repository Link: https://github.com/JamesTammila/dewdrop
 
-###  
-
-###  Pinnit
+### Pinnit
 
 Description: A social media app where people post on an interactive global map!
 
