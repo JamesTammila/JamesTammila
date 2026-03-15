@@ -20,6 +20,8 @@ Repository Link: Hidden
 
 Description: A social media app where people post on an interactive global map!
 
+Preview:
+
 ![DewDrop Demo GIF](assets/dewdrop_demo.gif)
 
 Repository Link: https://github.com/JamesTammila/dewdrop
@@ -28,5 +30,7 @@ Repository Link: https://github.com/JamesTammila/dewdrop
 > 🔴 **Inactive**
 
 Description: A social media app where people post on an interactive global map!
+
+Preview:
 
 Repository Link: https://github.com/JamesTammila/Pinnit
