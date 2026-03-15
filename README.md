@@ -2,9 +2,9 @@
 
 ### 📱 Apps
 
----
+<br>
 
-### Active
+> 🟢 **Active** - Jumbl
 
 ### Jumbl
 
@@ -18,9 +18,9 @@ Website: https://jumbl.social/
 
 Repository Link: Hidden
 
----
+<br>
 
-### Inactive
+> 🔴 **Inactive** - DewDrop, Pinnit
 
 ### DewDrop (Pinnit v2)
 
