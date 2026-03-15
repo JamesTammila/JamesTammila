@@ -18,7 +18,7 @@ Repository Link: Repository is private since app is active.
 ### DewDrop (Pinnit v2)
 > 🔴 **Inactive**
 
-Description: The second version of Pinnit, rebranded to Jumbl and rewritten in Flutter.
+Description: The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
 
 Preview Demo:
 
