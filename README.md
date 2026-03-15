@@ -13,7 +13,7 @@ Android Download: https://play.google.com/store/apps/details?id=social.jumbl.jum
 
 Website: https://jumbl.social/
 
-Repository Link: Repository is private since app is in production.
+Repository Link: Repository is private since app is active.
 
 ### DewDrop (Pinnit v2)
 > 🔴 **Inactive**
