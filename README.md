@@ -23,10 +23,14 @@ Description: A social media app where people post on an interactive global map!
 
 ![DewDrop Demo GIF](assets/dewdrop_demo.gif)
 
+Repository Link: https://github.com/JamesTammila/dewdrop
+
 [Repo](https://github.com/JamesTammila/dewdrop)
 
 ###  Pinnit
 
 Description: A social media app where people post on an interactive global map!
+
+Repository Link: https://github.com/JamesTammila/Pinnit
 
 [Repo](https://github.com/JamesTammila/Pinnit)
