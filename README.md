@@ -1,4 +1,4 @@
-###  Hi 👋, I'm James Tammila</h1>
+###  Hello 👋, I'm James Tammila, I enjoy making apps!</h1>
 
 ###  📱 Apps
 
