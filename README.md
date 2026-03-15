@@ -2,11 +2,8 @@
 
 ### 📱 Apps
 
-<br>
-
-> 🟢 **Active** - Jumbl
-
 ### Jumbl
+> 🟢 **Active**
 
 Description: A fun new social media app where you share themed photos with friends! Released at the beginning of this year. 
 
@@ -18,11 +15,8 @@ Website: https://jumbl.social/
 
 Repository Link: Hidden
 
-<br>
-
-> 🔴 **Inactive** - DewDrop, Pinnit
-
 ### DewDrop (Pinnit v2)
+> 🔴 **Inactive**
 
 Description: A social media app where people post on an interactive global map!
 
@@ -31,6 +25,7 @@ Description: A social media app where people post on an interactive global map!
 Repository Link: https://github.com/JamesTammila/dewdrop
 
 ### Pinnit
+> 🔴 **Inactive**
 
 Description: A social media app where people post on an interactive global map!
 
