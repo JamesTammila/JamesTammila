@@ -20,11 +20,17 @@ Repository Link: Repository is private since app is active.
 
 Description: A social media app where people post on an interactive global map!
 
-Preview:
-
-<img src="assets/dewdrop_demo.gif" width="300"/>
+Preview Demo:
 
 ![DewDrop Demo GIF](assets/dewdrop_demo.gif)
+
+Preview Images:
+
+<p>
+  <img src="assets/dewdrop_image_1.jpg" width="300"/>
+  <img src="assets/dewdrop_image_2.jpg" width="300"/>
+  <img src="assets/dewdrop_image_3.jpg" width="300"/>
+</p>
 
 Repository Link: https://github.com/JamesTammila/dewdrop
 
@@ -33,6 +39,15 @@ Repository Link: https://github.com/JamesTammila/dewdrop
 
 Description: A social media app where people post on an interactive global map!
 
-Preview:
+Preview Images:
+
+<p>
+  <img src="assets/pinnit_image_1.jpg" width="300"/>
+  <img src="assets/pinnit_image_2.jpg" width="300"/>
+  <img src="assets/pinnit_image_3.jpg" width="300"/>
+  <img src="assets/pinnit_image_4.jpg" width="300"/>
+  <img src="assets/pinnit_image_5.jpg" width="300"/>
+  <img src="assets/pinnit_image_6.jpg" width="300"/>
+</p>
 
 Repository Link: https://github.com/JamesTammila/Pinnit
