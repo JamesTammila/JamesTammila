@@ -22,6 +22,8 @@ Description: A social media app where people post on an interactive global map!
 
 Preview:
 
+<img src="assets/dewdrop_demo.gif" width="300"/>
+
 ![DewDrop Demo GIF](assets/dewdrop_demo.gif)
 
 Repository Link: https://github.com/JamesTammila/dewdrop
