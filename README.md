@@ -25,7 +25,7 @@
 
 Description: A fun new social media app where you share themed photos with friends! Released at the beginning of this year. 
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/jumbl-post-together/id6448725808) &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=social.jumbl.jumbl) &nbsp; [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jumbl.social/) &nbsp; [![Repository](https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github&logoColor=white)](/)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/jumbl-post-together/id6448725808) &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=social.jumbl.jumbl) &nbsp; [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jumbl.social/) &nbsp; [![Repository](https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ---
 
