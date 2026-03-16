@@ -30,11 +30,11 @@ A fun new social media app where you share themed photos with friends! Released 
 
 <br>
 
-**Architecture:** Clean Architecture · BLoC · Repository Pattern · Offline Support · Reactive Streams · Dependency Injection
+**Architecture:** &nbsp; Clean Architecture · BLoC · Repository Pattern · Offline Support · Reactive Streams · Dependency Injection
 
 <br>
 
-**Features:** OAuth (Apple & Google) · Firebase AppCheck · REST API · Streaming Responses · Cursor Based Pagination · Image Processing · Image Caching · FCM Push Notifications · In-App Notifications · Local Push Notifications · WorkManager · User Profiles · User Search · Bidirectional Friendship System · Comment System · Custom Reaction System · Blocking & Reporting · Firebase Crashlytics
+**Features:** &nbsp; OAuth (Apple & Google) · Firebase AppCheck · REST API · Streaming Responses · Cursor Based Pagination · Image Processing · Image Caching · FCM Push Notifications · In-App Notifications · Local Push Notifications · WorkManager · User Profiles · User Search · Bidirectional Friendship System · Comment System · Custom Reaction System · Blocking & Reporting · Firebase Crashlytics
 
 <br>
 
