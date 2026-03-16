@@ -4,15 +4,17 @@
 
 &nbsp;
 
-**Languages:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=dart,java,swift,kotlin" align="center"/>
+**Languages:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=dart,java" align="center"/>
 
-**Frameworks & Libraries:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=flutter,tensorflow" align="center"/>
+**Frameworks:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=flutter" align="center"/>
 
 **Database & Services:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=sqlite,firebase" align="center"/>
 
 **Design:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=figma" align="center"/>
 
-**Tools:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,androidstudio" align="center"/>
+**Tools:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=androidstudio,git" align="center"/>
+
+**Currently Learning:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=kotlin,swift" align="center"/>
 
 &ensp;
 
@@ -23,7 +25,11 @@
 ### Jumbl
 > 🟢 **Active**
 
-Description: A fun new social media app where you share themed photos with friends! Released at the beginning of this year. 
+Description: 
+
+A fun new social media app where you share themed photos with friends! Released at the beginning of this year. 
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,sqlite,firebase,figma,androidstudio,git" align="center"/>
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/jumbl-post-together/id6448725808) &nbsp; [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=social.jumbl.jumbl) &nbsp; [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jumbl.social/) &nbsp; [![Repository](https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github&logoColor=white)](#)
 
@@ -32,7 +38,11 @@ Description: A fun new social media app where you share themed photos with frien
 ### DewDrop (Pinnit v2)
 > 🔴 **Inactive**
 
-Description: The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
+Description: 
+
+The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git" align="center"/>
 
 [![Repository](https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesTammila/dewdrop)
 
@@ -53,7 +63,11 @@ Preview Images:
 ### Pinnit
 > 🔴 **Inactive**
 
-Description: A social media app where people post on an interactive global map!
+Description: 
+
+A social media app where people post on an interactive global map!
+
+<img src="https://skillicons.dev/icons?i=java,firebase,androidstudio,git" align="center"/>
 
 [![Repository](https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesTammila/Pinnit)
 
