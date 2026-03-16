@@ -1,5 +1,13 @@
 ###  Hello! My name is James Tammila, and I enjoy making apps.</h1>
 
+**Languages:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=dart,java,swift,kotlin" align="center"/>
+
+**Frameworks & Libraries:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=flutter,tensorflow" align="center"/>
+
+**Database & Services:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=sqlite,firebase" align="center"/>
+
+**Design:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=figma" align="center"/>
+
 ### 📱 Apps
 
 ---
