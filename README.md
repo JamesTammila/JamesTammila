@@ -2,6 +2,8 @@
 
 ### 📱 Apps
 
+---
+
 ### Jumbl
 > 🟢 **Active**
 
@@ -14,6 +16,8 @@ Android Download Link: https://play.google.com/store/apps/details?id=social.jumb
 Website Link: https://jumbl.social/
 
 Repository Link: Repository is private since app is active.
+
+---
 
 ### DewDrop (Pinnit v2)
 > 🔴 **Inactive**
@@ -33,6 +37,8 @@ Preview Images:
 </p>
 
 Repository Link: https://github.com/JamesTammila/dewdrop
+
+---
 
 ### Pinnit
 > 🔴 **Inactive**
