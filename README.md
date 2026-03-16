@@ -50,11 +50,11 @@ The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git" align="center"/>
+**Built With:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git" align="center"/>
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesTammila/dewdrop)
+**Download & Links:** &nbsp;&nbsp; <a href="https://github.com/JamesTammila/dewdrop"><img src="https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
 
 <br>
 
@@ -79,11 +79,11 @@ A social media app where people post on an interactive global map!
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,firebase,androidstudio,git" align="center"/>
+**Built With:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=java,firebase,androidstudio,git" align="center"/>
 
 <br>
 
-[![Repository](https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesTammila/Pinnit)
+**Download & Links:** &nbsp;&nbsp; <a href="https://github.com/JamesTammila/Pinnit"><img src="https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
 
 <br>
 
