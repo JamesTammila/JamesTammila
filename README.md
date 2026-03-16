@@ -26,7 +26,7 @@
 
 <br>
 
-A fun new social media app where you share themed photos with friends! Released at the beginning of this year.
+**Description:** &nbsp; A fun new social media app where you share themed photos with friends! Released at the beginning of this year.
 
 <br>
 
@@ -53,7 +53,7 @@ A fun new social media app where you share themed photos with friends! Released 
 
 <br>
 
-The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
+**Description:** &nbsp; The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
 
 <br>
 
@@ -62,6 +62,10 @@ The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
 <br>
 
 **Download & Links:** &nbsp;&nbsp; <a href="https://github.com/JamesTammila/dewdrop"><img src="https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
+
+<br>
+
+**Preview:** 
 
 <br>
 
@@ -82,7 +86,7 @@ The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
 
 <br>
 
-A social media app where people post on an interactive global map!
+**Description:** &nbsp; A social media app where people post on an interactive global map!
 
 <br>
 
@@ -91,6 +95,10 @@ A social media app where people post on an interactive global map!
 <br>
 
 **Download & Links:** &nbsp;&nbsp; <a href="https://github.com/JamesTammila/Pinnit"><img src="https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
+
+<br>
+
+**Preview:** 
 
 <br>
 
