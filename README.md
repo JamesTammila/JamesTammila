@@ -90,12 +90,10 @@
 
 <br>
 
-![DewDrop Demo GIF](assets/dewdrop_demo.gif)
-
 <p>
-  <img src="assets/dewdrop_image_1.jpg" width="250"/>
-  <img src="assets/dewdrop_image_2.jpg" width="250"/>
-  <img src="assets/dewdrop_image_3.jpg" width="250"/>
+  <img src="assets/dewdrop_demo.gif" align="middle"/>
+  <img src="assets/dewdrop_image_1.jpg" width="250" align="middle"/>
+  <img src="assets/dewdrop_image_3.jpg" width="250" align="middle"/>
 </p>
 
 <br>
