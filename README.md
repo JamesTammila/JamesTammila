@@ -62,7 +62,7 @@
 <p>
   <img src="assets/jumbl_image_4.PNG" width="250"/>
   <img src="assets/jumbl_image_5.PNG" width="250"/>
-  <img src="assets/jumbl_image_6.PNG" width="250"/>
+  <img src="assets/jumbl_image_7.PNG" width="250"/>
 </p>
 
 <br>
