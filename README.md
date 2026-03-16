@@ -27,9 +27,9 @@ Preview Demo:
 Preview Images:
 
 <p>
-  <img src="assets/dewdrop_image_1.jpg" width="300"/>
-  <img src="assets/dewdrop_image_2.jpg" width="300"/>
-  <img src="assets/dewdrop_image_3.jpg" width="300"/>
+  <img src="assets/dewdrop_image_1.jpg" width="250"/>
+  <img src="assets/dewdrop_image_2.jpg" width="250"/>
+  <img src="assets/dewdrop_image_3.jpg" width="250"/>
 </p>
 
 Repository Link: https://github.com/JamesTammila/dewdrop
@@ -42,9 +42,9 @@ Description: A social media app where people post on an interactive global map!
 Preview Images:
 
 <p>
-  <img src="assets/pinnit_image_1.jpg" width="300"/>
-  <img src="assets/pinnit_image_2.jpg" width="300"/>
-  <img src="assets/pinnit_image_3.jpg" width="300"/>
+  <img src="assets/pinnit_image_1.jpg" width="250"/>
+  <img src="assets/pinnit_image_2.jpg" width="250"/>
+  <img src="assets/pinnit_image_3.jpg" width="250"/>
 </p>
 
 Repository Link: https://github.com/JamesTammila/Pinnit
