@@ -48,6 +48,24 @@
 **Download & Links:** &nbsp;&nbsp; <a href="https://apps.apple.com/us/app/jumbl-post-together/id6448725808"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" align="center"/></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=social.jumbl.jumbl"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" align="center"/></a> &nbsp; <a href="https://jumbl.social/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" align="center"/></a> &nbsp; <a href="#"><img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
 
 <br>
+
+**Preview:** 
+
+<br>
+
+<p>
+  <img src="assets/jumbl_image_1.PNG" width="250"/>
+  <img src="assets/jumbl_image_2.PNG" width="250"/>
+  <img src="assets/jumbl_image_3.PNG" width="250"/>
+</p>
+
+<p>
+  <img src="assets/jumbl_image_4.PNG" width="250"/>
+  <img src="assets/jumbl_image_5.PNG" width="250"/>
+  <img src="assets/jumbl_image_6.PNG" width="250"/>
+</p>
+
+<br>
 <hr>
 <br>
 
