@@ -27,7 +27,7 @@
 
 <br>
 
-**Description:** &nbsp; A fun new social media app where you share themed photos with friends! Released at the beginning of this year.
+**Description:** &nbsp; A fun new social media app where you share themed photos with friends! Think BeReal but on creative steroids! Released early February 2026!
 
 <br>
 
