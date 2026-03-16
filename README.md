@@ -29,7 +29,7 @@
 
 <br>
 
-**Description:** &nbsp; A fun new social media app where you share themed photos with friends! Think BeReal but on creative steroids! Released early February 2026! Around 50 active users between pre-alpha and beta phases.
+**Description:** &nbsp; A fun new social media app where you share themed photos with friends! Think BeReal but on creative steroids! Released early February 2026, with around 50 active users between pre-alpha and beta phases.
 
 <br>
 
