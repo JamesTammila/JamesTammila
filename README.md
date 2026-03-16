@@ -12,7 +12,7 @@
 
 **Tools:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=androidstudio,git" align="center"/>
 
-**Currently Learning:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=kotlin,swift" align="center"/>
+**Currently Learning:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=kotlin" align="center"/>
 
 <br>
 
