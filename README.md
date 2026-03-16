@@ -60,11 +60,7 @@ The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
 
 <br>
 
-Preview Demo:
-
 ![DewDrop Demo GIF](assets/dewdrop_demo.gif)
-
-Preview Images:
 
 <p>
   <img src="assets/dewdrop_image_1.jpg" width="250"/>
@@ -94,8 +90,6 @@ A social media app where people post on an interactive global map!
 [![Repository](https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesTammila/Pinnit)
 
 <br>
-
-Preview Images:
 
 <p>
   <img src="assets/pinnit_image_1.jpg" width="250"/>
