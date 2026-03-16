@@ -2,17 +2,17 @@
 
 ###  Hello! My name is James Tammila, and I enjoy making apps.</h1> <br>
 
-**Languages:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=dart,java" align="center"/>
+**Languages:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=dart,java" align="center"/></a>
 
-**Frameworks:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=flutter" align="center"/>
+**Frameworks:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=flutter" align="center"/></a>
 
-**Database & Services:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=sqlite,firebase" align="center"/>
+**Database & Services:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=sqlite,firebase" align="center"/></a>
 
-**Design:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=figma" align="center"/>
+**Design:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=figma" align="center"/></a>
 
-**Tools:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=androidstudio,git" align="center"/>
+**Tools:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,git" align="center"/></a>
 
-**Currently Learning:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=kotlin" align="center"/>
+**Currently Learning:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=kotlin" align="center"/></a>
 
 <br>
 
@@ -30,7 +30,7 @@ A fun new social media app where you share themed photos with friends! Released 
 
 <br>
 
-**Built With:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=dart,flutter,sqlite,firebase,figma,androidstudio,git" align="center"/>
+**Built With:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=dart,flutter,sqlite,firebase,figma,androidstudio,git" align="center"/></a>
 
 <br>
 
@@ -49,7 +49,7 @@ The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
 
 <br>
 
-**Built With:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git" align="center"/>
+**Built With:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git" align="center"/></a>
 
 <br>
 
@@ -78,7 +78,7 @@ A social media app where people post on an interactive global map!
 
 <br>
 
-**Built With:** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=java,firebase,androidstudio,git" align="center"/>
+**Built With:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=java,firebase,androidstudio,git" align="center"/></a>
 
 <br>
 
