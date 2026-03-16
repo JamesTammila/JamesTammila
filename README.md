@@ -29,7 +29,7 @@
 
 <br>
 
-**Description:** &nbsp; A fun new social media app where you share themed photos with friends! Think BeReal but on creative steroids! Released early February 2026!
+**Description:** &nbsp; A fun new social media app where you share themed photos with friends! Think BeReal but on creative steroids! Released early February 2026! Around 50 active users between pre-alpha and beta phases.
 
 <br>
 
@@ -74,7 +74,7 @@
 
 <br>
 
-**Description:** &nbsp; The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
+**Description:** &nbsp; The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter. Around 50 active users between pre-alpha and beta phases.
 
 <br>
 
