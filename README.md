@@ -1,6 +1,8 @@
 <br>
 
-###  Hello! My name is James Tammila, and I enjoy making apps.</h1> <br>
+###  Hello! My name is James Tammila, and I enjoy making apps.</h1> 
+
+&nbsp;
 
 **Languages:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=dart,java" align="center"/></a>
 
