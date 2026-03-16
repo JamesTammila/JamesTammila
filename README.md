@@ -77,6 +77,8 @@ Preview Images:
   <img src="assets/pinnit_image_3.jpg" width="250"/>
 </p>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JamesTammila/JamesTammila/blob/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/JamesTammila/JamesTammila/blob/output/github-contribution-grid-snake.svg"/>
