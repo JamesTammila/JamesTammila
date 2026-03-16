@@ -14,7 +14,7 @@
 
 **Currently Learning:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=kotlin" align="center"/></a>
 
-<br>
+&nbsp;
 
 ### 📱 Apps
 
