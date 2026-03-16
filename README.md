@@ -87,7 +87,7 @@
 
 <br>
 
-**Description:** &nbsp; A social media app where people post on an interactive global map!
+**Description:** &nbsp; Where geo-tagging meets social media! An app where users can share images and short videos on a global interactive map, allowing you to travel the world from your home!
 
 <br>
 
