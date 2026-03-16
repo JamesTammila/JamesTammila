@@ -34,6 +34,8 @@ Description: A fun new social media app where you share themed photos with frien
 
 Description: The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter.
 
+[![Repository](https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesTammila/dewdrop)
+
 Preview Demo:
 
 ![DewDrop Demo GIF](assets/dewdrop_demo.gif)
@@ -46,14 +48,14 @@ Preview Images:
   <img src="assets/dewdrop_image_3.jpg" width="250"/>
 </p>
 
-Repository Link: https://github.com/JamesTammila/dewdrop
-
 ---
 
 ### Pinnit
 > 🔴 **Inactive**
 
 Description: A social media app where people post on an interactive global map!
+
+[![Repository](https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamesTammila/Pinnit)
 
 Preview Images:
 
@@ -62,8 +64,6 @@ Preview Images:
   <img src="assets/pinnit_image_2.jpg" width="250"/>
   <img src="assets/pinnit_image_3.jpg" width="250"/>
 </p>
-
-Repository Link: https://github.com/JamesTammila/Pinnit
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JamesTammila/JamesTammila/blob/output/github-contribution-grid-snake-dark.svg"/>
