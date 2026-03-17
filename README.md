@@ -74,7 +74,7 @@
 
 <br>
 
-**Description:** &nbsp; Where geo-tagging meets social media! An app where users can share images and short videos on a global interactive map, allowing you to travel the world from your home! Around 50 active users between pre-alpha and beta phases.
+**Description:** &nbsp; Where geo-tagging meets social media! An app where users can share images and short videos on a global interactive map, allowing you to travel the world from your home! Had around 50 active users during its pre-alpha and beta phases.
 
 <br>
 
