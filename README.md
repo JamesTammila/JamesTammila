@@ -82,7 +82,7 @@
 
 <br>
 
-**Features:** &nbsp; Auth · REST API · Cursor-Based Pagination · Image Caching · Image Processing · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Geo-based Querying · Animated Markers
+**Features:** &nbsp; Auth · REST API · Cursor-Based Pagination · Image Caching · Image Processing · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Geo-Based Querying · Animated Markers
 
 <br>
 
@@ -114,6 +114,10 @@
 <br>
 
 **Description:** &nbsp; The first version of DewDrop, originally a native Android app.
+
+<br>
+
+**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Caching · Image Processing · Video Caching · Video Processing · Network Connectivity · Multithreading · FCM Push Notifications · In-App Notifications · User Profiles · User Search · Follower System · Leaderboard System · Comment System · Upvote & Downvote System · Favourite System · Post Search · Maps SDK · Geolocation · Geo-Based Querying · Animated Markers · Carousel UI
 
 <br>
 
