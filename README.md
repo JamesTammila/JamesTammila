@@ -82,7 +82,7 @@
 
 <br>
 
-**Features:** &nbsp; Auth · REST API · Cursor-Based Pagination · Image Caching · Image Processing · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Geo-Based Querying · Custom Map Markers
+**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Processing · Image Caching · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Reverse Geocoding · Geo-Based Querying · Custom Map Markers
 
 <br>
 
