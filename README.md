@@ -37,7 +37,7 @@
 
 <br>
 
-**Features:** &nbsp; OAuth (Apple & Google) · Firebase AppCheck · REST API · Streaming Responses · Cursor Based Pagination · Image Processing · Image Caching · FCM Push Notifications · In-App Notifications · Local Push Notifications · WorkManager · User Profiles · User Search · Bidirectional Friendship System · Comment System · Custom Reaction System · Blocking & Reporting · Firebase Crashlytics
+**Features:** &nbsp; OAuth (Apple & Google) · Firebase AppCheck · REST API · Streaming Responses · Cursor-Based Pagination · Image Processing · Image Caching · FCM Push Notifications · In-App Notifications · Local Push Notifications · WorkManager · User Profiles · User Search · Bidirectional Friendship System · Comment System · Custom Reaction System · Blocking & Reporting · Firebase Crashlytics
 
 <br>
 
@@ -82,7 +82,7 @@
 
 <br>
 
-**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Caching · Image Processing · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Geo-based Querying · Animated Markers
+**Features:** &nbsp; Auth · REST API · Cursor-Based Pagination · Image Caching · Image Processing · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Geo-based Querying · Animated Markers
 
 <br>
 
