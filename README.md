@@ -78,6 +78,10 @@
 
 <br>
 
+**Features:** &nbsp; Basic Auth · REST API · Image Caching · Video Compression · FCM Push Notifications · In-App Notifications · User Profiles · Friend & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Media Uploads · Maps SDK · Geolocation
+
+<br>
+
 **Built With:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git" align="center"/></a>
 
 <br>
