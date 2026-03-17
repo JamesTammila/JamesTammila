@@ -69,12 +69,12 @@
 <hr>
 <br>
 
-### DewDrop (Pinnit v2)
+### DewDrop
 > 🔴 **Inactive**
 
 <br>
 
-**Description:** &nbsp; The second version of Pinnit, rebranded to DewDrop and rewritten in Flutter. Around 50 active users between pre-alpha and beta phases.
+**Description:** &nbsp; Where geo-tagging meets social media! An app where users can share images and short videos on a global interactive map, allowing you to travel the world from your home! Around 50 active users between pre-alpha and beta phases.
 
 <br>
 
@@ -100,12 +100,12 @@
 <hr>
 <br>
 
-### Pinnit
+### Pinnit (DewDrop v1)
 > 🔴 **Inactive**
 
 <br>
 
-**Description:** &nbsp; Where geo-tagging meets social media! An app where users can share images and short videos on a global interactive map, allowing you to travel the world from your home!
+**Description:** &nbsp; The first version of DewDrop, originally a native Android app.
 
 <br>
 
