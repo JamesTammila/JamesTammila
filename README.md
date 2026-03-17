@@ -117,7 +117,7 @@
 
 <br>
 
-**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Caching · Image Processing · Video Caching · Video Processing · Network Connectivity · Multithreading · FCM Push Notifications · In-App Notifications · User Profiles · User Search · Follower System · Leaderboard System · Comment System · Upvote & Downvote System · Favourite System · Post Search · Maps SDK · Geolocation · Geo-Based Querying · Animated Markers · Carousel UI
+**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Caching · Image Processing · Video Caching · Video Processing · Multithreading · Network Connectivity · FCM Push Notifications · In-App Notifications · User Profiles · User Search · Follower System · Leaderboard System · Comment System · Upvote & Downvote System · Favourite System · Post Search · Maps SDK · Geolocation · Geo-Based Querying · Animated Markers · Carousel UI
 
 <br>
 
