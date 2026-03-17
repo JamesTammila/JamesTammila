@@ -78,7 +78,7 @@
 
 <br>
 
-**Features:** &nbsp; Basic Auth · REST API · Image Caching · Video Compression · FCM Push Notifications · In-App Notifications · User Profiles · Friend & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Media Uploads · Maps SDK · Geolocation
+**Features:** &nbsp; Auth · REST API · Image Caching · Image Processing · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation
 
 <br>
 
