@@ -33,7 +33,7 @@
 
 <br>
 
-**Architecture:** &nbsp; Clean Architecture · BLoC · Repository Pattern · Offline Support · Reactive Streams · Dependency Injection
+**Architecture:** &nbsp; Clean Architecture · BLoC · Repository Pattern · Dependency Injection · Reactive Streams · RxDart · Offline Support
 
 <br>
 
