@@ -82,7 +82,7 @@
 
 <br>
 
-**Features:** &nbsp; Auth · REST API · Cursor-Based Pagination · Image Caching · Image Processing · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Geo-Based Querying · Animated Markers
+**Features:** &nbsp; Auth · REST API · Cursor-Based Pagination · Image Caching · Image Processing · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Geo-Based Querying · Custom Map Markers
 
 <br>
 
@@ -117,11 +117,11 @@
 
 <br>
 
-**Architecture:** &nbsp; MVC · Dependency Injection
+**Architecture:** &nbsp; Single-Activity Architecture
 
 <br>
 
-**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Caching · Image Processing · Video Caching · Video Processing · Multithreading · Network Connectivity · FCM Push Notifications · In-App Notifications · User Profiles · User Search · Follower System · Leaderboard System · Comment System · Upvote & Downvote System · Favourite System · Post Search · Maps SDK · Geolocation · Geo-Based Querying · Animated Markers · Carousel UI
+**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Caching · Image Processing · Video Caching · Video Processing · CameraX · Multithreading · Network Connectivity · FCM Push Notifications · In-App Notifications · User Profiles · Follower System · Comment System · Voting System · Maps SDK · Real-Time Location Tracking · Reverse Geocoding · Geo-Based Querying · Custom Map Markers · Map-Synced Carousel
 
 <br>
 
