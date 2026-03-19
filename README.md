@@ -98,6 +98,12 @@
 
 <br>
 
+<p>
+  <img src="assets/didit_image_1.jpg" width="250"/>
+  <img src="assets/didit_image_2.jpg" width="250"/>
+  <img src="assets/didit_image_3.jpg" width="250"/>
+</p>
+
 <br>
 <hr>
 <br>
