@@ -69,6 +69,39 @@
 <hr>
 <br>
 
+### Didit (Jumbl v1)
+> 🔴 **Inactive**
+
+<br>
+
+**Description:** &nbsp; The first version of Jumbl. Originally focused on pair posting but then switched to group posting after user feedback. 
+
+<br>
+
+**Architecture:** &nbsp; BLoC · Repository Pattern · Dependency Injection · Reactive Streams
+
+<br>
+
+**Features:** &nbsp;
+
+<br>
+
+**Built With:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git" align="center"/></a>
+
+<br>
+
+**Download & Links:** &nbsp;&nbsp; <a href="https://github.com/JamesTammila/didit"><img src="https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
+
+<br>
+
+**Preview:** 
+
+<br>
+
+<br>
+<hr>
+<br>
+
 ### DewDrop
 > 🔴 **Inactive**
 
