@@ -100,8 +100,8 @@
 
 <p>
   <img src="assets/didit_image_1.jpg" width="250"/>
-  <img src="assets/didit_image_5.jpg" width="250"/>
-  <img src="assets/didit_image_4.jpg" width="250"/>
+  <img src="assets/didit_image_2.jpg" width="250"/>
+  <img src="assets/didit_image_3.jpg" width="250"/>
 </p>
 
 <br>
