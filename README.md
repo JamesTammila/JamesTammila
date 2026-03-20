@@ -82,7 +82,7 @@
 
 <br>
 
-**Features:** &nbsp;
+**Features:** &nbsp; Firebase Phone Authentication · Firebase AppCheck · REST API · Image Processing · Image Caching · FCM Push Notifications · Local Push Notifications · In-App Notifications · User Profiles · User Search · Bidirectional Friendship System
 
 <br>
 
