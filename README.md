@@ -121,7 +121,7 @@
 
 <br>
 
-**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Processing · Image Caching · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Reverse Geocoding · Geo-Based Querying · Custom Map Markers
+**Features:** &nbsp; Auth · REST API · Cursor-Based Pagination · Image Processing · Image Caching · Video Processing · FCM Push Notifications · In-App Notifications · User Profiles · User & Group Search · Bidirectional Friendship System · Group System · Comment System · Like System · Maps SDK · Geolocation · Reverse Geocoding · Geo-Based Querying · Custom Map Markers
 
 <br>
 
@@ -160,7 +160,7 @@
 
 <br>
 
-**Features:** &nbsp; Auth · REST API · Cursor-based Pagination · Image Caching · Image Processing · Video Caching · Video Processing · CameraX · Multithreading · Network Connectivity · FCM Push Notifications · In-App Notifications · User Profiles · Follower System · Comment System · Voting System · Maps SDK · Real-Time Location Tracking · Reverse Geocoding · Geo-Based Querying · Custom Map Markers · Map-Synced Carousel
+**Features:** &nbsp; Auth · REST API · Cursor-Based Pagination · Image Caching · Image Processing · Video Caching · Video Processing · CameraX · Multithreading · Network Connectivity · FCM Push Notifications · In-App Notifications · User Profiles · Follower System · Comment System · Voting System · Maps SDK · Real-Time Location Tracking · Reverse Geocoding · Geo-Based Querying · Custom Map Markers · Map-Synced Carousel
 
 <br>
 
