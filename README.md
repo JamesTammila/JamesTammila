@@ -14,7 +14,7 @@
 
 **Tools:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,git" align="center"/></a>
 
-**Currently Learning:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=kotlin" align="center"/></a>
+**Currently Learning:** &nbsp;&nbsp; <a href="#"><img src="https://skillicons.dev/icons?i=swift" align="center"/></a>
 
 &nbsp;
 
